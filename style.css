@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(153, 194, 194);
+    text-align: center;
+
+}
+
+.h1 {
+    text-align: left;
+    font-size: 40px;
+    color: rgb(55, 35, 168);
+}
+
+
+.flag {
+    margin-left: 77%;
+    margin-top: 6%;
+}
+
+
+.information {
+    font-size: 25px;
+
+}
