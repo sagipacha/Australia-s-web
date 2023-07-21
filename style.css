@@ -1,17 +1,15 @@
 body {
     background-color: rgb(159, 179, 179);
     text-align: center;
-
 }
 
 .head {
-    display: inline-block
-}
+    display: inline-block;
 
+}
 
 .information {
     font-size: 21px;
-
 }
 
 .topnav {
@@ -27,12 +25,19 @@ body {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-
 }
 
 .topnav a:hover {
     background-color: rgb(153, 194, 194)D;
     color: LightGray;
+}
 
+.links_github {
+    text-align: left;
+    font-size: 17px;
+    color: #0c0808;
+}
 
+.github {
+    width: 40px;
 }
