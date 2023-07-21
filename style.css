@@ -1,23 +1,48 @@
 body {
-    background-color: rgb(153, 194, 194);
+    background-color: rgb(159, 179, 179);
     text-align: center;
 
 }
 
-.h1 {
+#span-1 {
+    display: inline;
     text-align: left;
     font-size: 40px;
-    color: rgb(55, 35, 168);
+    color: rgb(19, 17, 31);
 }
 
-
 .flag {
+    display: inline-block;
     margin-left: 77%;
     margin-top: 6%;
+    size: 10px;
 }
 
 
 .information {
-    font-size: 25px;
+    font-size: 21px;
+
+}
+
+.topnav {
+    background-color: rgb(159, 179, 179);
+    overflow: hidden;
+    text-align: center;
+    margin-left: 430px;
+}
+
+.topnav a {
+    float: left;
+    color: #0c0808;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+
+.topnav a:hover {
+    background-color: rgb(153, 194, 194)D;
+    color: LightGray;
+
 
 }
