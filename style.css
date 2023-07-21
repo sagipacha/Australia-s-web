@@ -4,18 +4,8 @@ body {
 
 }
 
-#span-1 {
-    display: inline;
-    text-align: left;
-    font-size: 40px;
-    color: rgb(19, 17, 31);
-}
-
-.flag {
-    display: inline-block;
-    margin-left: 77%;
-    margin-top: 6%;
-    size: 10px;
+.head {
+    display: inline-block
 }
 
 
