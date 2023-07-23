@@ -48,6 +48,10 @@ body {
     color: #0c0808;
 }
 
+.footer {
+    font-size: 17px;
+}
+
 .github {
     width: 40px;
 }
