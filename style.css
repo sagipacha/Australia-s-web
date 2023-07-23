@@ -1,18 +1,29 @@
 body {
     background-color: rgb(159, 179, 179);
     text-align: center;
+    background-image: url(https://www.state.gov/wp-content/uploads/2022/02/shutterstock_1025960785-2560x1300.jpg);
 }
 
 .head {
-    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 40px;
+}
+
+.head img {
+    margin-right: 80px;
+}
+
+.head h1 {
+    margin-left: 80px;
 }
 
 .information {
-    font-size: 21px;
+    font-size: 25px;
 }
 
 .topnav {
-    background-color: rgb(159, 179, 179);
     overflow: hidden;
     text-align: center;
     margin-left: 430px;
