@@ -2,7 +2,9 @@ body {
     background-color: rgb(159, 179, 179);
     text-align: center;
     background-image: url(https://www.state.gov/wp-content/uploads/2022/02/shutterstock_1025960785-2560x1300.jpg);
+    opacity: 1.0;
 }
+
 
 .head {
     display: flex;
